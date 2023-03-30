@@ -3219,3 +3219,6 @@ input, select, textarea {
 			}
 
 	}
+a:focus img {
+  outline: none;
+}
