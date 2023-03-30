@@ -3218,7 +3218,7 @@ input, select, textarea {
 				padding-left: 0;
 			}
 
-	}
-a:focus img {
-  outline: none;
+a:focus {
+  outline: none !important;
 }
+
